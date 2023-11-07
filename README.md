@@ -2,23 +2,17 @@
 <html>
 <head>
 <style>
-  th {
-    font-family: Calibri, sans-serif;
+  th {font-family: Calibri, sans-serif;
     font-size: 24px;
     text-align: center;
     background-color: #4CAF50;
-    color: white;
-  }
-  td {
-    font-family: Calibri, sans-serif;
+    color: white;}
+  td {font-family: Calibri, sans-serif;
     font-size: 18px;
-    text-align: center;
-  }
-  .color-cell {
-    width: 100px;
+    text-align: center;}
+  .color-cell {width: 100px;
     height: 100px;
-    text-align: center;
-  }
+    text-align: center;}
 </style>
 </head>
 <body>
