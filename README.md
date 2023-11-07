@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body>
+<head>
   <style>
   th {
     font-family: Calibri, sans-serif;
@@ -20,6 +20,8 @@
     text-align: center;
   }
 </style>
+</head>
+<body>
 <table border="1" cellspacing="0" cellpadding="10">
   <tr>
     <th colspan="4">Green Color Scheme</th>
